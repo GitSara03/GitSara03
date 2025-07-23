@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GitSara03
+- 👋 Hi, I’m Sara El Bouhiaoui
 - 👀 I’m interested in GRC and Risk Analysis
 - 🌱 I’m currently learning Cybersecurity
 - 📫 How to reach me : email: sara.elb03@gmail.com 
